@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @SomayiroA
-- 👀 I’m interested in Blockchain Development and Smart Contracts
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Blockchain and Smart Contracts projects
-- 📫 How to reach me: somayiroamaefuna@gmail.com and @SomayiroAmaefuna on LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I can code in JavaScript and I love to cook
+hey, there. 🙋‍♀️
+i'm Somayiro, an SOC 1 analyst based in Lagos, Nigeria.
+i've fallen victim to my share of cybercrime so this is my way of getting my lick back - by becoming an security emgineer.
+my main language is Python. my favourite tools are Linux, Sysmon and WireShark.
+i've got a bunch of pinned projects but my fav is the Malware Analysis Lab - mostly cause it took me forever to configure. 😅
+
+Fun Facts:
+1. i love swimming and reading.
+2. Bones is my comfort series.
+3. i loveee going for raves.
+
 
 <!---
 SomayiroA/SomayiroA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
