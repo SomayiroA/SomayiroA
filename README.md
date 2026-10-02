@@ -1,7 +1,11 @@
 hey, there. 🙋‍♀️
+
 i'm Somayiro, an SOC 1 analyst based in Lagos, Nigeria.
+
 i've fallen victim to my share of cybercrime so this is my way of getting my lick back - by becoming an security emgineer.
+
 my main language is Python. my favourite tools are Linux, Sysmon and WireShark.
+
 i've got a bunch of pinned projects but my fav is the Malware Analysis Lab - mostly cause it took me forever to configure. 😅
 
 Fun Facts:
